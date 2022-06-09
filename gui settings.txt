@@ -1,8 +1,8 @@
 local NotificationTheme = {
 	-- // Theme Colours
 	MainColour = Color3.fromRGB(151, 0, 0),
-	BackgroundColour = Color3.fromRGB(25, 25, 25),
-	SecondaryBackgroundColour = Color3.fromRGB(15, 15, 15),
+	BackgroundColour = Color3.fromRGB(15, 15, 15),
+	SecondaryBackgroundColour = Color3.fromRGB(5, 5, 5),
 	Success = Color3.fromRGB(27, 42, 53),
 	Error = Color3.fromRGB(255, 150, 150),
 	Alert = Color3.fromRGB(253, 253, 150),
