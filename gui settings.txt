@@ -15,7 +15,7 @@ local NotificationTheme = {
 	TitleTextColor3 = Color3.fromRGB(255, 255, 255),
 	
 	-- // Default Settings
-	WaitTime = 31,
+	WaitTime = 20,
 	StorageLocation = game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"),
 	GUIName = "NotificationGUI",
 	NotificationName = "Notification",
